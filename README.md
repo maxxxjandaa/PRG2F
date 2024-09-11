@@ -1,2 +1,1 @@
-"# PRG2F" 
-Toto je test
+Toto je školní projekt
